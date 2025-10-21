@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="testSuite" parallel="methods">
+    <test name="chrome">
+   		<classes>
+            <class name="com.test.LoginTest" />            
+        </classes>
+     </test>
+    
+</suite>
